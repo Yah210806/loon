@@ -1,5 +1,5 @@
 # MisakaF
-HOST-SUFFIX,misakaf.org,Emby
+DOMAIN-SUFFIX,misakaf.org,Emby
 
 # NiceDuck
 DOMAIN,jcf.niceduck.lol,Emby
@@ -15,13 +15,13 @@ DOMAIN,loacl2.emby.moe,Emby
 DOMAIN,loacl.emby.moe,Emby
 
 # ZDZ(Terminus)
-HOST-SUFFIX,emby.wtf,Emby
-HOST-SUFFIX,pub1.emby.wtf,Emby
-HOST-SUFFIX,pub2.emby.wtf,Emby
-HOST-SUFFIX,pub3.emby.wtf,Emby
-HOST-SUFFIX,pub1cf.emby.wtf,Emby
-HOST-SUFFIX,pub2cf.emby.wtf,Emby
-HOST-SUFFIX,pub3cf.emby.wtf,Emby
-HOST-SUFFIX,pub1back.emby.wtf,Emby
-HOST-SUFFIX,pub2back.emby.wtf,Emby
-HOST-SUFFIX,pub3back.emby.wtf,Emby
+DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN-SUFFIX,pub1.emby.wtf,Emby
+DOMAIN-SUFFIX,pub2.emby.wtf,Emby
+DOMAIN-SUFFIX,pub3.emby.wtf,Emby
+DOMAIN-SUFFIX,pub1cf.emby.wtf,Emby
+DOMAIN-SUFFIX,pub2cf.emby.wtf,Emby
+DOMAIN-SUFFIX,pub3cf.emby.wtf,Emby
+DOMAIN-SUFFIX,pub1back.emby.wtf,Emby
+DOMAIN-SUFFIX,pub2back.emby.wtf,Emby
+DOMAIN-SUFFIX,pub3back.emby.wtf,Emby
