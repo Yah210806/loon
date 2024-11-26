@@ -1,0 +1,27 @@
+# MisakaF
+HOST-SUFFIX,misakaf.org,Emby
+
+# NiceDuck
+DOMAIN,jcf.niceduck.lol,Emby
+DOMAIN,cf.niceduck.lol,Emby
+DOMAIN,vi.niceduck.lol,Emby
+DOMAIN,pilicf.niceduck.lol,Emby
+DOMAIN,dpxcf.niceduck.lol,Emby
+DOMAIN,dpxcdn.niceduck.lol,Emby
+DOMAIN,dpxcdn1.niceduck.lol,Emby
+DOMAIN,cfloacl.emby.moe,Emby
+DOMAIN,cfloacl2.emby.moe,Emby
+DOMAIN,loacl2.emby.moe,Emby
+DOMAIN,loacl.emby.moe,Emby
+
+# ZDZ(Terminus)
+HOST-SUFFIX,emby.wtf,Emby
+HOST-SUFFIX,pub1.emby.wtf,Emby
+HOST-SUFFIX,pub2.emby.wtf,Emby
+HOST-SUFFIX,pub3.emby.wtf,Emby
+HOST-SUFFIX,pub1cf.emby.wtf,Emby
+HOST-SUFFIX,pub2cf.emby.wtf,Emby
+HOST-SUFFIX,pub3cf.emby.wtf,Emby
+HOST-SUFFIX,pub1back.emby.wtf,Emby
+HOST-SUFFIX,pub2back.emby.wtf,Emby
+HOST-SUFFIX,pub3back.emby.wtf,Emby
