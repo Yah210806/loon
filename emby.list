@@ -27,4 +27,4 @@ DOMAIN-SUFFIX,pub2back.emby.wtf,Emby
 DOMAIN-SUFFIX,pub3back.emby.wtf,Emby
 
 # Lyrebird
-DOMAIN-SUFFIX,cdn.lyrebirdemby,Emby
+DOMAIN,cdn.lyrebirdemby.com,Emby
