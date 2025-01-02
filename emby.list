@@ -28,3 +28,6 @@ DOMAIN-SUFFIX,pub3back.emby.wtf,Emby
 
 # Lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby
+
+# Syn
+DOMAIN,clip.makima.online,Emby
