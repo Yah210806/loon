@@ -31,3 +31,6 @@ DOMAIN,cdn.lyrebirdemby.com,Emby
 
 # Syn
 DOMAIN,clip.makima.online,Emby
+
+DOMAIN,alist7.eu.org,Emby
+DOMAIN-SUFFIX,sharepoint.com,Emby
